@@ -1,0 +1,10 @@
+Flask==1.1.2 
+Flask-Cors==3.0.10 
+joblib==1.1.0
+jsonschema==4.4.0 
+pandas==1.4.2 
+pickleshare==0.7.5
+requests==2.27.1 
+requests-file==1.5.1 
+scikit-learn==1.0.2 
+numpy==1.21.5
